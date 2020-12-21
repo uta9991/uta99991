@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "unisims_ver" -lib "unimacro_ver" -lib "xilinxcorelib_ver" -o "C:/Users/nino/Desktop/UTA/lab5uta/testbench5uta_isim_beh.exe" -prj "C:/Users/nino/Desktop/UTA/lab5uta/testbench5uta_beh.prj" "work.testbench5uta" "work.glbl" 
